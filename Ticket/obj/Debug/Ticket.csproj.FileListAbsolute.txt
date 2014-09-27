@@ -1,0 +1,9 @@
+C:\Users\Opu\Desktop\Ticket\Ticket\bin\Debug\Ticket.exe.config
+C:\Users\Opu\Desktop\Ticket\Ticket\bin\Debug\Ticket.exe
+C:\Users\Opu\Desktop\Ticket\Ticket\bin\Debug\Ticket.pdb
+C:\Users\Opu\Desktop\Ticket\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Opu\Desktop\Ticket\Ticket\obj\Debug\Ticket.Properties.Resources.resources
+C:\Users\Opu\Desktop\Ticket\Ticket\obj\Debug\Ticket.csproj.GenerateResource.Cache
+C:\Users\Opu\Desktop\Ticket\Ticket\obj\Debug\Ticket.exe
+C:\Users\Opu\Desktop\Ticket\Ticket\obj\Debug\Ticket.pdb
+C:\Users\Opu\Desktop\Ticket\Ticket\obj\Debug\Ticket.PurchaseTicketUI.resources
